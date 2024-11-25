@@ -1,0 +1,5 @@
+# Ignorar ficheros con extension .xsd
+*.xsd
+
+# Ignorar la carpeta top_secrets
+top_secret/
